@@ -15,5 +15,9 @@ public void createContactWithOrgTest() {
 public void deleteContactTest() {
 	System.out.println("execute deleteContactTest");
 }  
+@Test(groups = "Regression Test")
+public void searchContactTest() {
+	System.out.println("execute deleteContactTest");
+}  
 
 }
